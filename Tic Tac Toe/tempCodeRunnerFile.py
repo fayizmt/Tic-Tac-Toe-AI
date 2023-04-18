@@ -1,0 +1,1 @@
+color = CIRC_COLOR if self.squares[1][1] == 2 else CROSS_COLOR
